@@ -17,4 +17,5 @@ Thumbs.db
 
 
 # Данные (не коммитим большие CSV)
+*.csv
 Eartquakes-1990-2023_short.csv
